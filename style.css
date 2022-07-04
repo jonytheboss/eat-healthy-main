@@ -13,6 +13,39 @@ body {
     margin-left: 5%;
     background-image: url(images/shapes/7.png);
     margin-left: 0%;
+    height: 500px;
+}
+
+.sce-2-h1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: grey;
+    margin-top: 150px;
+}
+
+.sec-2-img {
+    margin-top: 80px;
+    height: 520px;
+    padding-left: 50px;
+
+}
+
+.meddle {
+    text-align: center;
+}
+
+.meddle-h1 {
+    color: grey;
+    font-size: 40px;
+}
+
+.meddle-p {
+    margin: 20px 350px;
+    text-align: center;
+}
+
+.top-pera-midel {
+    margin-bottom: 100px;
 }
 
 .big-header {
@@ -20,6 +53,7 @@ body {
     font-weight: bold;
     padding-top: 100px;
     color: #4a4f4e;
+    margin-right: 0%;
 }
 
 .top-pera {
@@ -35,15 +69,6 @@ body {
 h1 {
     font-size: 50px;
 }
-
-.sce-2-h1 {
-    font-size: 40px;
-    font-weight: bold;
-    color: grey;
-    margin-top: 80px;
-}
-
-
 
 .color-cod {
     color: #ff8000;
