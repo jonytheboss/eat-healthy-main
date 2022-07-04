@@ -16,6 +16,19 @@ body {
     height: 500px;
 }
 
+.section-3 {
+    margin-left: 12%;
+    margin-right: 12%;
+    padding: 20px 20px;
+    box-shadow: 15px 15px 40px gray;
+    border-radius: 40px;
+}
+
+.section-3-img {
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
 .sce-2-h1 {
     font-size: 40px;
     font-weight: bold;
